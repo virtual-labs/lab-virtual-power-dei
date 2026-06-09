@@ -91,18 +91,20 @@
 ],
   "targetAudience": {
     "UG": [
-      ""
+      "The lab is intended for undergraduate engineering students, faculty members, research scholars, and industry trainees, particularly those specializing in Electrical Engineering and related disciplines.It is especially beneficial for institutions with limited access to physical power system laboratories and testing equipment."
     ],
     "PG": [
-      "Computer Science, Information Technology, Compilers, Operating systems, Databases, AI and Software engineering. <br/> - Ph. D. Beginners"
+      "The lab is intended for postgraduate engineering students, faculty members, research scholars, and industry trainees, particularly those specializing in Electrical Engineering and related disciplines.It is especially beneficial for institutions with limited access to physical power system laboratories and testing equipment."
     ]
   },
   "objective": "<ul><li>To develop a conceptual understanding of electrical power system components and their operation.</li><li>To study the characteristics and performance of synchronous machines, transformers, transmission lines, and protective devices.</li><li>To analyze power system faults, protection schemes, and relay coordination.</li><li>To understand the influence of system parameters on power system performance and stability.</li><li>To provide hands-on learning experience through virtual experimentation and simulation.</li></ul>",
   "courseAlignment": {
-    "description": "",
+    "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-      "Osmania University Data Structures Lab",
-      "JNTU Data Structures Lab"
+      "IIT Madras: Power Systems; EE3003",
+"IIT Bombay: Power Electronics & Power Systems; EE658",
+"IIT Delhi: Power Systems Protection; ELL400",
+"Dayalbagh Educational Institute: Power Systems; EE-501"
     ]
   }
  
