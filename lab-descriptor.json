@@ -15,7 +15,7 @@
     "name": "To study the Synchronization of alternator with infinite bus bar",
     "short-name": "synchronization-infinite-bus-bar",
     "repo": "https://github.com/virtual-labs/exp-synchronization-infinite-bus-bar-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -50,7 +50,7 @@
     "name": "To Study the gas actuated Buchholz relay for oil filled transformer.",
     "short-name": "gas-actuated-buchholz",
     "repo": "https://github.com/virtual-labs/exp-gas-actuated-buchholz-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
